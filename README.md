@@ -30,7 +30,7 @@
             -  IT 기술지원 팀, 기획 운영팀, 마케팅팀, CS 운영팀에 Action Plan 제시
             -  MSE, MAE 계산값 가지고 Action Plan 제시
     - Week3
-        - 더클로젯컴퍼니의 최근 구매 데이터를 활용하여 '비즈니스 전략 도출'
+        - 더클로젯컴퍼니의 최근 구매 데이터를 활용하여 '비즈니스 전략 도출하기'
         - Step1: 잠재 고객 확보에 주력하라! (Acquisition)
         - Step2: 구매 고객으로 연결하라 (Activation)
         - Step3: 우량 고객의 파이를 늘려라 (Revenue)
